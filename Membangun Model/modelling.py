@@ -44,4 +44,4 @@ with mlflow.start_run():
 
     #Log metrics
     accuracy = model.score(X_test, y_test)
-    mlflow.log_metric("accuracy", accuracy)
+    mlflow.autolog()  # Disable automatic model logging for this run
