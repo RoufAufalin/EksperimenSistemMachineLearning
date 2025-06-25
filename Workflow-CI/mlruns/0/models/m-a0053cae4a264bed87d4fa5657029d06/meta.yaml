@@ -1,0 +1,10 @@
+artifact_location: file:///home/runner/work/DiabetesCI/DiabetesCI/mlruns/0/models/m-a0053cae4a264bed87d4fa5657029d06/artifacts
+creation_timestamp: 1750766901108
+experiment_id: '0'
+last_updated_timestamp: 1750766903607
+model_id: m-a0053cae4a264bed87d4fa5657029d06
+model_type: null
+name: model
+source_run_id: 8663884b3fb9444badfbab266e155ec9
+status: 2
+status_message: null

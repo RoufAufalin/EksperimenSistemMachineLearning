@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/DiabetesCI/DiabetesCI/mlruns/0/8663884b3fb9444badfbab266e155ec9/artifacts
+end_time: 1750766904622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8663884b3fb9444badfbab266e155ec9
+run_name: carefree-goat-651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750766898784
+status: 3
+tags: []
+user_id: runner
